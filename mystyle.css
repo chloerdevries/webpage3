@@ -17,3 +17,10 @@ padding: 15px;
 margin: 15px;
 
 }
+
+ul{
+  list-style-type: none;
+  padding: 0px ;
+  display: flex;
+  justify-content: left;
+}
