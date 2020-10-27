@@ -14,6 +14,6 @@ Width: 500 px;
 #content-box{
 Background: white ;
 Padding: 15px;
-Margin: 15px; (creates gaps on all sides- margin-bottom would push from bottom, not including top)
+Margin: 15px; 
 
 }
