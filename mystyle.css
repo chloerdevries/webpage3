@@ -24,3 +24,11 @@ ul{
   display: flex;
   justify-content: left;
 }
+
+a{
+  position: relative;
+  text-decoration:none;
+  background: #FFF;
+  padding: 15px;
+  margin-bottom: -2px
+}
