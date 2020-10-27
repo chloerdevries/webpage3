@@ -28,11 +28,11 @@ ul{
 a{
   position: relative;
   text-decoration:none;
-  background: #F6DECF ;
+  background: ##EDD0BD ;
   padding: 15px;
-  margin-bottom: -2px
+  margin-bottom: -2px;
 }
 a:hover{
-  background: #FFF
+  background: #FFF;
 
 }
