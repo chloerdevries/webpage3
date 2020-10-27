@@ -28,7 +28,11 @@ ul{
 a{
   position: relative;
   text-decoration:none;
-  background: #FFF;
+  background: #F6DECF ;
   padding: 15px;
   margin-bottom: -2px
+}
+a:hover{
+  background: #FFF
+
 }
