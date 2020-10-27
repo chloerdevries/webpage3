@@ -1,19 +1,19 @@
-Body{
-Display: flex ;
-Justify-content: center;
-Background: #F5D8C7 ;
+body{
+display: flex ;
+justify-content: center;
+background: #F5D8C7 ;
 }
 
 #container{
-Position: relative;
-Top: 100px;
-Background: #FAECE3 ;
-Width: 500 px;
+position: relative;
+top: 100px;
+background: #FAECE3 ;
+width: 500 px;
 }
 
 #content-box{
-Background: white ;
-Padding: 15px;
-Margin: 15px; 
+background: white ;
+padding: 15px;
+margin: 15px;
 
 }
